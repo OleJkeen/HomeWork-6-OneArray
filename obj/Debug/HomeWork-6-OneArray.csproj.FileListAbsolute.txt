@@ -1,0 +1,7 @@
+D:\VS\All_Home_Works\HomeWork-6-OneArray\bin\Debug\HomeWork-6-OneArray.exe.config
+D:\VS\All_Home_Works\HomeWork-6-OneArray\bin\Debug\HomeWork-6-OneArray.exe
+D:\VS\All_Home_Works\HomeWork-6-OneArray\bin\Debug\HomeWork-6-OneArray.pdb
+D:\VS\All_Home_Works\HomeWork-6-OneArray\obj\Debug\HomeWork-6-OneArray.csproj.AssemblyReference.cache
+D:\VS\All_Home_Works\HomeWork-6-OneArray\obj\Debug\HomeWork-6-OneArray.csproj.CoreCompileInputs.cache
+D:\VS\All_Home_Works\HomeWork-6-OneArray\obj\Debug\HomeWork-6-OneArray.exe
+D:\VS\All_Home_Works\HomeWork-6-OneArray\obj\Debug\HomeWork-6-OneArray.pdb
